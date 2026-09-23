@@ -1,0 +1,5 @@
+# This project uses only the Python standard library — no third-party
+# packages are required yet. As dependencies are added (for example,
+# `requests` in a later stage), pin them here, one per line, e.g.:
+#
+#   requests==2.32.3
